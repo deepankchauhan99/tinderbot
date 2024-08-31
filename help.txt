@@ -1,0 +1,9 @@
+This fix helped driver. > auto completion suggestions to pop up
+Go to .vscode/settings.json and add:
+{
+  "python.languageServer": "Pylance",
+  "python.analysis.autoImportCompletions": true
+}
+
+Command that runs a chrome-session
+# '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' --remote-debugging-port=9222 --user-data-dir="/Users/deepank/Documents/Python Projects/Tinderbot/.chrome-session"   

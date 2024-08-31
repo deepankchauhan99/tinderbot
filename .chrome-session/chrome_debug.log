@@ -1,0 +1,18 @@
+[19480:259:0831/052753.491928:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 128.0.6613.86 (not a warning)
+[19480:259:0831/052753.734761:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[19480:259:0831/052755.960599:INFO:CONSOLE(2)] "[bugsnag] Loaded!", source: https://tinder.com/static/build/39296-866063ad2764fd16a487.js (2)
+[19491:259:0831/052755.965207:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[19491:259:0831/052755.968334:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[19491:259:0831/052756.048761:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[19491:259:0831/052756.178367:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[19491:259:0831/052756.321584:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[19480:259:0831/052758.358391:INFO:CONSOLE(2)] "[bugsnag] Event not sent due to onError callback", source: https://tinder.com/static/build/39296-866063ad2764fd16a487.js (2)
+[19480:259:0831/052758.358586:INFO:CONSOLE(2)] "[bugsnag] Event not sent due to onError callback", source: https://tinder.com/static/build/39296-866063ad2764fd16a487.js (2)
+[19480:259:0831/052758.358792:INFO:CONSOLE(2)] "[bugsnag] Event not sent due to onError callback", source: https://tinder.com/static/build/39296-866063ad2764fd16a487.js (2)
+[19480:259:0831/052758.358943:INFO:CONSOLE(2)] "[bugsnag] Event not sent due to onError callback", source: https://tinder.com/static/build/39296-866063ad2764fd16a487.js (2)
+[19480:259:0831/052758.359091:INFO:CONSOLE(2)] "[bugsnag] Event not sent due to onError callback", source: https://tinder.com/static/build/39296-866063ad2764fd16a487.js (2)
+[19480:259:0831/052758.359234:INFO:CONSOLE(2)] "[bugsnag] Event not sent due to onError callback", source: https://tinder.com/static/build/39296-866063ad2764fd16a487.js (2)
+[19480:259:0831/052758.359376:INFO:CONSOLE(2)] "[bugsnag] Event not sent due to onError callback", source: https://tinder.com/static/build/39296-866063ad2764fd16a487.js (2)
+[19480:259:0831/052758.359510:INFO:CONSOLE(2)] "[bugsnag] Event not sent due to onError callback", source: https://tinder.com/static/build/39296-866063ad2764fd16a487.js (2)
+[19480:259:0831/052800.361088:INFO:CONSOLE(2)] "[bugsnag] Event not sent due to onError callback", source: https://tinder.com/static/build/39296-866063ad2764fd16a487.js (2)
+[19480:259:0831/052808.216307:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
